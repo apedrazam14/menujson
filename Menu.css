@@ -21,7 +21,7 @@ body{
     font-family: 'Lora', serif;
     font-weight: bold;
     font-size: 4mm;
-    border-bottom: 1.5px #1883ba dotted;
+    border-bottom: 1.5px #1883ba groove;
     width: 30%;
     
     
@@ -33,14 +33,17 @@ body{
     float:left;
     
     width: 255px;
-    border-bottom: 1.5px #1883ba dotted;}
+    border-bottom: 1.5px #1883ba groove;
+    border-right: 1.5px #1883ba groove;}
+    
 .Title{
     color:black;
     font-family: 'Lora', serif;
     font-size: 3mm;
     float:left;
     width: 255px;
-    border-bottom: 1.5px #1883ba dotted;
+    border-bottom: 1.5px #1883ba groove;
+    border-right: 1.5px #1883ba groove;
 }
 
 .Imagen{
@@ -49,7 +52,9 @@ body{
     font-size: 3mm;
     float:left;
     width: 255px;
-    border-bottom: 1.5px #1883ba dotted;
+    border-bottom: 1.5px #1883ba groove;
+  
+    
 }
 .Container_id
 {
@@ -57,6 +62,7 @@ body{
     font-size: 3mm;
     float:left;
     width: 255px;
+   
 }
 .Title_name
 {
