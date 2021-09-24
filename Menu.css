@@ -7,13 +7,15 @@ body{
     font-family: 'Lora', serif;
     font-weight: bold;
     font-size: 3mm;
-}
-.Container {
-    color:blue;
-    font-family: 'Lora', serif;
     
 }
-.Title{
-    color:blue;
+.Container {
+    color:black;
     font-family: 'Lora', serif;
+    font-size: 2mm;
+}
+.Title{
+    color:black;
+    font-family: 'Lora', serif;
+    font-size: 2mm;
 }
