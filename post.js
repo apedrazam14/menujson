@@ -11,14 +11,14 @@ function getpos()
 .then((post)=>
 {
     Container.innerHTML= `<div class="Container">ID </div>
-                        <div class="Container">Name</div>
+                         <div class="Container">Name</div>
                         <div class="Imagen">Image</div>`
     for (let index=0; index<Numeros;index++)(
         Container.innerHTML += `
                                 <hr>
-                                <div class="Container> ${post[index].id}> </div>
-                                <div class="Title"> ${post[index].title}></div>
-                                <img class="Image" src="${post[index].thumbnailUrl}"></div>
+                                <div class="Container_id"> ${post[index].id}></div>
+                                <div class="Title_name"> ${post[index].title}></div>
+                                <img class="Images_color" src="${post[index].thumbnailUrl}"></div>
                                 
         `    )
 }) 

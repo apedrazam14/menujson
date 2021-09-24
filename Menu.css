@@ -2,20 +2,66 @@ body{
     margin:0;
     padding:0;
 }
+.Boton{
+    text-decoration: none;
+    padding: 5px;
+    font-weight: 200;
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 3px;
+    border: 1.5px solid #0016b0;
+}
+.InputRegistros{
+    width: 10%;
+    
+}
 .Numero_Entrada{
     color:black;
     font-family: 'Lora', serif;
     font-weight: bold;
-    font-size: 3mm;
+    font-size: 4mm;
+    border-bottom: 1.5px #1883ba dotted;
+    width: 30%;
+    
     
 }
 .Container {
     color:black;
     font-family: 'Lora', serif;
-    font-size: 2mm;
-}
+    font-size: 3mm;
+    float:left;
+    
+    width: 255px;
+    border-bottom: 1.5px #1883ba dotted;}
 .Title{
     color:black;
     font-family: 'Lora', serif;
-    font-size: 2mm;
+    font-size: 3mm;
+    float:left;
+    width: 255px;
+    border-bottom: 1.5px #1883ba dotted;
+}
+
+.Imagen{
+    color:black;
+    font-family: 'Lora', serif;
+    font-size: 3mm;
+    float:left;
+    width: 255px;
+    border-bottom: 1.5px #1883ba dotted;
+}
+.Container_id
+{
+    font-family: 'Lora', serif;
+    font-size: 3mm;
+    float:left;
+    width: 255px;
+}
+.Title_name
+{
+    font-family: 'Lora', serif;
+    font-size: 3mm;
+    float:left;
+    width: 255px;
 }
