@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    padding:0;
+}
+.Numero_Entrada{
+    color:black;
+    font-family: 'Lora', serif;
+    font-weight: bold;
+    font-size: 3mm;
+}
+.Container {
+    color:blue;
+    font-family: 'Lora', serif;
+    
+}
+.Title{
+    color:blue;
+    font-family: 'Lora', serif;
+}
